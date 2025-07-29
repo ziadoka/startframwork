@@ -34,7 +34,7 @@ const Footer = () => {
 
           {/* About */}
           <div className="col-lg-4 mb-4 mb-lg-0">
-            <h5 className="text-uppercase mb-3">ABOUT FREELANCER</h5>
+            <h5 className="text-uppercase mb">ABOUT FREELANCER</h5>
             <p className="mb-0">
               Freelance is a free to use, licensed Bootstrap theme created by Route
             </p>
@@ -43,7 +43,7 @@ const Footer = () => {
       </div>
 
       {/* Copyright */}
-      <div className="text-center p-3" style={{ backgroundColor: '#1a252f' }}>
+      <div className="text-center p-3 m-0" style={{ backgroundColor: '#1a252f' }}>
         © Your Website 2021
       </div>
     </footer>
